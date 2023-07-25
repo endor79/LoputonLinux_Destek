@@ -12,3 +12,18 @@ Gelecek sürümde içerisine retro oyunlar eklenecek, daha fazla araç eklenecek
 
 # Desteklenen Cihazlar
 -Excalibur G770 | NVIDIA GTX 1650, i5-9300H, 16GB
+
+Çalışan Özellikler:
+* WIFI
+* Ses
+* Touchpad
+* Parlaklık
+* Uyku modu
+* Ses artırma/kısma/kapama kısayolları
+* Parlaklık kısma/artırma
+* RGB Klavya Işığı açma/kapama kısayolu
+
+Çalışmayan Özellikler:
+* SD Card Reader
+* Touchpad açma/kapama kısayolu
+* WIFI kapatma kısyolu
