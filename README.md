@@ -26,4 +26,4 @@ Gelecek sürümde içerisine retro oyunlar eklenecek, daha fazla araç eklenecek
 Çalışmayan Özellikler:
 * SD Card Reader
 * Touchpad açma/kapama kısayolu
-* WIFI kapatma kısyolu
+* WIFI kapatma kısayolu
