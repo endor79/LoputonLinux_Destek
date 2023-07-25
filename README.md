@@ -6,7 +6,7 @@ Bu sorunun çözümü ise USB belleğe Ventoy'u GPT olarak yazdırmak, Ventoy y�
 LoputonLinux'u Ventoy ile önyükleme yaptığınız zaman herhangi bir hata vermeden açılması gerekir.
 
 # LoputonLinux Gelecek Yenilikler
-LoputonLinux'un amacı USB bellekte birden fazla Linux dağıtımı bulundurulmasının önüne geçmek. Her bir dağıtımın sunduğu özellikler farklıdır ancak temelde hepsinde aynı işlevler yapılabilir. LoputonLinux tek başına USB'de bulunup bütün işlerinizi yapabileceğiniz Devuan imajıdır. İster pentesting çalışın, ister günlük kullanın, isterseniz de disk onarmak/kurtarmak için kullanın. Tamamen bağımsız ve özgür bir imaj dosyası geliştiriliyor.
+LoputonLinux'un amacı USB bellekte birden fazla Linux dağıtım bulundurulmasının önüne geçmek. Her bir dağıtımın sunduğu özellikler farklıdır ancak temelde hepsinde aynı işlevler yapılabilir. LoputonLinux tek başına USB'de bulunup bütün işlerinizi yapabileceğiniz Devuan imajıdır. İster pentesting çalışın, ister günlük kullanın, isterseniz de disk onarmak/kurtarmak için kullanın. Tamamen bağımsız ve özgür bir imaj dosyası geliştiriliyor.
 
 Gelecek sürümde içerisine retro oyunlar eklenecek, daha fazla araç eklenecek, tasarımda değişiklikler olacak, UEFI sistemlerde olan sorunlar çözülecek ve sürücü desteği artacak.
 
