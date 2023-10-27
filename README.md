@@ -10,7 +10,9 @@ LoputonLinux'un amacı USB bellekte birden fazla Linux dağıtımı bulundurulma
 
 # Desteklenen Cihazlar
 -Asus Vivobook 16X
+
 -Dell Latitude
+
 -Excalibur G770
 
 # LoputonLinux Two Masami
